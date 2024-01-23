@@ -21,3 +21,8 @@ The below table includes mainly books but does include 1 song. The books are *Co
 | The Call of the Wild | A Book I Enjoyed | Jack London |
 | White Fang | Similar Book to Above | Jack London |
 | Your House | One of My Favorite Songs | Hopsin |
+--- 
+### Quotes 
+
+> If you can dream it, you can do it \- *Walt Disney*<br>
+> The lack of money is the root of all evil \- *Mark Twain*<br>
