@@ -26,3 +26,10 @@ The below table includes mainly books but does include 1 song. The books are *Co
 
 > If you can dream it, you can do it \- *Walt Disney*<br>
 > The lack of money is the root of all evil \- *Mark Twain*<br>
+--- 
+### Code Fencing
+Selects all of the data from *table*<br>
+SQL Snippet Source <https://code.pieces.app/collections/sql>
+```
+SELECT * FROM table;
+```
