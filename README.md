@@ -7,3 +7,7 @@ It is my favorite restaurant because I really enjoy Mexican food and it is one o
 - Choripollo
 - Pollo Jalisco
 - Burrito Sancho
+### Nearby Businesses
+- Applebees
+- Tractor Supply
+- Dairy Queen
