@@ -10,4 +10,5 @@ It is my favorite restaurant because I really enjoy Mexican food and it is one o
 ### Nearby Businesses
 - Applebees
 - Tractor Supply
-- Dairy Queen
+- Dairy Queen<br>
+[MyMedia Link (I don't use MyMedia so I just linked their website)](https://mediaplus.firebaseapp.com/)
